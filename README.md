@@ -77,6 +77,17 @@ task-cli/
 ├── go.sum            # Module dependency checksums
 └── README.md         # Project documentation
 ```
+## Future Scope
+
+Here are some potential features to enhance the Task CLI:
+
+- **Task Filtering**: Add flags to filter tasks based on criteria such as status, priority, or due date.
+
+- **Task Due Dates**: Allow users to set due dates for tasks and list tasks that are due soon.
+
+- **Task Search**: Implement a search command to find tasks by name, ID, or description.
+
+- **Task Priority**: Allow users to set priorities for tasks (e.g., high, medium, low) and sort tasks based on priority.
 
 ## Contributing
 Pull requests are welcome! Feel free to open an issue for suggestions or bugs.
