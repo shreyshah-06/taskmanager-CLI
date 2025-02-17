@@ -1,0 +1,21 @@
+# Ignore Go build artifacts
+*.exe
+*.test
+*.out
+
+# Ignore directories for build caches
+/bin/
+/obj/
+
+# Ignore IDE or editor files
+.vscode/
+/.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore BoltDB database files
+*.db
+*.bolt
+*.db-journal
